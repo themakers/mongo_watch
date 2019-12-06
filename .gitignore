@@ -13,3 +13,18 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Editor directories and files
+.idea
+.vscode
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS cache files
+.DS_Store
+._.DS_Store
+Thumbs.db
